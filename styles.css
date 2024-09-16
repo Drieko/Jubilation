@@ -1,0 +1,42 @@
+body
+{
+    background-color: red;
+}
+.painel
+{   
+    /* margin arruma automaticamente (nesse ela fica no meio) */
+    margin: auto;
+    border-radius: 20px;
+    background-color: white;
+    /* tamanho do painel  */
+    width: 500px;
+    height: 500px;
+    /* alinha texto pra centro  */
+    text-align: center;
+    /* texto fica uns 50px pra baixo  */
+    padding-top: 50px;
+}
+
+#sim
+{
+    background-color: green;
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    /* centralizou  */
+    margin-left: -50px;
+}
+
+#nao
+{
+    position: absolute;
+    background-color: red;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 40px;
+    width: 60px;
+    margin-left: 10px;
+}
