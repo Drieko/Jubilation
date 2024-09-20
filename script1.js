@@ -20,5 +20,6 @@ function fuja(){
 }
 
 function parabens(){
-    alert("Feliz aniversário amor, parábens por ser incrivel sempre <3  \nEu te amo muito <3")
+    alert("Feliz aniversário");
+    window.location.href = "page2.html";
 }
