@@ -20,6 +20,6 @@ function fuja(){
 }
 
 function parabens(){
-    alert("Feliz aniversário");
+    alert("Feliz aniversário, está é só a primeira pagina amorzinho");
     window.location.href = "Pages/page2.html";
 }
