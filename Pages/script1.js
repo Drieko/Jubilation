@@ -21,5 +21,5 @@ function fuja(){
 
 function parabens(){
     alert("Feliz aniversário");
-    window.location.href = "page2.html";
+    window.location.href = "Pages/page2.html";
 }
